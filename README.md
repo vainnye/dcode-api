@@ -1,6 +1,10 @@
 # DCode API
 
-A Python API wrapper for interacting with dcode.fr forms and tools. This library provides a clean interface for scraping and interacting with dcode.fr's encryption, encoding, and other utility tools.
+A Python API wrapper for interacting with dcode.fr tools via it's obfuscated web API. This library provides a clean interface for scraping and interacting with dcode.fr's encryption, encoding, and other utility tools.
+
+I'm not affiliated with dcode (https://www.dcode.fr/). Shoutout to them for making their cool website, very usefull for learning math btw.
+
+I had the idea of this project when I wrote some text using qwerty layout on my pc without knowing it. I went onto dcode's website to decode the text to azerty layout. I was currious about their source code, so I looked into it and made this python project.
 
 ## Features
 
