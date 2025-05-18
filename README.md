@@ -1,5 +1,7 @@
 # DCode API
 
+DISCLAIMER: this is just a POC
+
 A Python API wrapper for interacting with dcode.fr tools via it's obfuscated web API. This library provides a clean interface for scraping and interacting with dcode.fr's encryption, encoding, and other utility tools.
 
 I'm not affiliated with dcode (https://www.dcode.fr/). Shoutout to them for making their cool website, very usefull for learning math btw.
@@ -51,7 +53,7 @@ print(query.response)
 
 ### Support
 
-A lot of features are not supported yet, and probably never be. This project is just a proof of concept, the code is not optimized and some parts are not verry readable.
+A lot of features are not supported yet, and probably won't ever be. This project is just a proof of concept, the code is not optimized and some parts are not verry readable.
 For support, please open an issue on GitHub.
 
 ## Known Limitations
