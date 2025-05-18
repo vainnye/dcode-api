@@ -19,6 +19,10 @@ pip install -r requirements.txt
 
 ## Usage
 
+![illustration : converting text written in different keyboard layouts on dcode's website from auto to azerty](https://github.com/user-attachments/assets/e48da7ac-47c2-4160-8e99-fac5a97ad46a)
+![illustration : converting text written in different keyboard layouts with my dcode-api from auto to azerty](https://github.com/user-attachments/assets/0754f2d9-b196-436a-94e3-271a1881b162)
+
+
 ### Basic Usage
 
 ```python
@@ -37,8 +41,9 @@ query.fill_form()
 query.send()
 
 # Print the response
-print(q.response)
+print(query.response)
 ```
+
 
 ### Support
 
