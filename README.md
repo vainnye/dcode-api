@@ -1,6 +1,10 @@
 # DCode API
 
-DISCLAIMER: this is just a POC
+## DISCLAIMER
+
+this is just a POC
+
+## About
 
 A Python API wrapper for interacting with dcode.fr tools via it's obfuscated web API. This library provides a clean interface for scraping and interacting with dcode.fr's encryption, encoding, and other utility tools.
 
